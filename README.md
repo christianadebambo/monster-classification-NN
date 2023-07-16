@@ -35,5 +35,3 @@ To use this code, follow these steps:
 - Adjust the file paths in the code to match the location of the dataset files.
 - Execute the code to preprocess the data, train the neural network, and make predictions
 - Evaluate the accuracy of the predictions on the training dataset.
-
-Please note that this code serves as a baseline solution and may require further customization, optimization, or experimentation to achieve better results.
